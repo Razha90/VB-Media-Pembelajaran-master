@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Downloads\\VB-Media-Pembelajaran-master\\VB-Media-Pembelajaran-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{406255E5-B369-4902-867E-381932258375}|Media Pembelajaran\\Media Pembelajaran.vbproj|c:\\users\\lenovo\\downloads\\vb-media-pembelajaran-master\\vb-media-pembelajaran-master\\media pembelajaran\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{406255E5-B369-4902-867E-381932258375}|Media Pembelajaran\\Media Pembelajaran.vbproj|solutionrelative:media pembelajaran\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406255E5-B369-4902-867E-381932258375}|Media Pembelajaran\\Media Pembelajaran.vbproj|C:\\Users\\Lenovo\\Downloads\\VB-Media-Pembelajaran-master\\VB-Media-Pembelajaran-master\\media pembelajaran\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{406255E5-B369-4902-867E-381932258375}|Media Pembelajaran\\Media Pembelajaran.vbproj|solutionrelative:media pembelajaran\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406255E5-B369-4902-867E-381932258375}|Media Pembelajaran\\Media Pembelajaran.vbproj|C:\\Users\\Lenovo\\Downloads\\VB-Media-Pembelajaran-master\\VB-Media-Pembelajaran-master\\media pembelajaran\\databaseajar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{406255E5-B369-4902-867E-381932258375}|Media Pembelajaran\\Media Pembelajaran.vbproj|solutionrelative:media pembelajaran\\databaseajar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406255E5-B369-4902-867E-381932258375}|Media Pembelajaran\\Media Pembelajaran.vbproj|c:\\users\\lenovo\\downloads\\vb-media-pembelajaran-master\\vb-media-pembelajaran-master\\media pembelajaran\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{406255E5-B369-4902-867E-381932258375}|Media Pembelajaran\\Media Pembelajaran.vbproj|solutionrelative:media pembelajaran\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406255E5-B369-4902-867E-381932258375}|Media Pembelajaran\\Media Pembelajaran.vbproj|C:\\Users\\Lenovo\\Downloads\\VB-Media-Pembelajaran-master\\VB-Media-Pembelajaran-master\\media pembelajaran\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{406255E5-B369-4902-867E-381932258375}|Media Pembelajaran\\Media Pembelajaran.vbproj|solutionrelative:media pembelajaran\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\VB-Media-Pembelajaran-master\\VB-Media-Pembelajaran-master\\Media Pembelajaran\\Form1.vb",
+              "RelativeDocumentMoniker": "Media Pembelajaran\\Form1.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\VB-Media-Pembelajaran-master\\VB-Media-Pembelajaran-master\\Media Pembelajaran\\Form1.vb",
+              "RelativeToolTip": "Media Pembelajaran\\Form1.vb",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-02T09:13:09.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\VB-Media-Pembelajaran-master\\VB-Media-Pembelajaran-master\\Media Pembelajaran\\Form1.vb",
+              "RelativeDocumentMoniker": "Media Pembelajaran\\Form1.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\VB-Media-Pembelajaran-master\\VB-Media-Pembelajaran-master\\Media Pembelajaran\\Form1.vb [Design]",
+              "RelativeToolTip": "Media Pembelajaran\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-01T18:38:27.451Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "databaseAjar.vb",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\VB-Media-Pembelajaran-master\\VB-Media-Pembelajaran-master\\Media Pembelajaran\\databaseAjar.vb",
+              "RelativeDocumentMoniker": "Media Pembelajaran\\databaseAjar.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\VB-Media-Pembelajaran-master\\VB-Media-Pembelajaran-master\\Media Pembelajaran\\databaseAjar.vb",
+              "RelativeToolTip": "Media Pembelajaran\\databaseAjar.vb",
+              "ViewState": "AQIAALoAAAAAAAAAAAAvwM4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-01T18:38:27.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\VB-Media-Pembelajaran-master\\VB-Media-Pembelajaran-master\\Media Pembelajaran\\Form2.vb",
+              "RelativeDocumentMoniker": "Media Pembelajaran\\Form2.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\VB-Media-Pembelajaran-master\\VB-Media-Pembelajaran-master\\Media Pembelajaran\\Form2.vb [Design]",
+              "RelativeToolTip": "Media Pembelajaran\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-01T18:38:27.951Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\VB-Media-Pembelajaran-master\\VB-Media-Pembelajaran-master\\Media Pembelajaran\\Form2.vb",
+              "RelativeDocumentMoniker": "Media Pembelajaran\\Form2.vb",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\VB-Media-Pembelajaran-master\\VB-Media-Pembelajaran-master\\Media Pembelajaran\\Form2.vb",
+              "RelativeToolTip": "Media Pembelajaran\\Form2.vb",
+              "ViewState": "AQIAAJADAAAAAAAAAAD4v54DAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-01T18:38:27.958Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

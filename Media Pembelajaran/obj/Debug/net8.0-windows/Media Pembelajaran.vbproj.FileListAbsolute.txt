@@ -1,0 +1,86 @@
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\Media Pembelajaran\Media Pembelajaran\Media Pembelajaran\bin\Debug\net8.0-windows\Media Pembelajaran.exe
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\Media Pembelajaran\Media Pembelajaran\Media Pembelajaran\bin\Debug\net8.0-windows\Media Pembelajaran.deps.json
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\Media Pembelajaran\Media Pembelajaran\Media Pembelajaran\bin\Debug\net8.0-windows\Media Pembelajaran.runtimeconfig.json
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\Media Pembelajaran\Media Pembelajaran\Media Pembelajaran\bin\Debug\net8.0-windows\Media Pembelajaran.dll
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\Media Pembelajaran\Media Pembelajaran\Media Pembelajaran\bin\Debug\net8.0-windows\Media Pembelajaran.pdb
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\Media Pembelajaran\Media Pembelajaran\Media Pembelajaran\obj\Debug\net8.0-windows\Media Pembelajaran.vbproj.GenerateResource.cache
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\Media Pembelajaran\Media Pembelajaran\Media Pembelajaran\obj\Debug\net8.0-windows\Media Pembelajaran.GeneratedMSBuildEditorConfig.editorconfig
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\Media Pembelajaran\Media Pembelajaran\Media Pembelajaran\obj\Debug\net8.0-windows\Media Pembelajaran.AssemblyInfoInputs.cache
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\Media Pembelajaran\Media Pembelajaran\Media Pembelajaran\obj\Debug\net8.0-windows\Media Pembelajaran.AssemblyInfo.vb
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\Media Pembelajaran\Media Pembelajaran\Media Pembelajaran\obj\Debug\net8.0-windows\Media Pembelajaran.vbproj.CoreCompileInputs.cache
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\Media Pembelajaran\Media Pembelajaran\Media Pembelajaran\obj\Debug\net8.0-windows\Media Pembelajaran.dll
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\Media Pembelajaran\Media Pembelajaran\Media Pembelajaran\obj\Debug\net8.0-windows\refint\Media Pembelajaran.dll
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\Media Pembelajaran\Media Pembelajaran\Media Pembelajaran\obj\Debug\net8.0-windows\Media Pembelajaran.pdb
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\Media Pembelajaran\Media Pembelajaran\Media Pembelajaran\obj\Debug\net8.0-windows\Media Pembelajaran.genruntimeconfig.cache
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\Media Pembelajaran\Media Pembelajaran\Media Pembelajaran\obj\Debug\net8.0-windows\ref\Media Pembelajaran.dll
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\Media Pembelajaran\Media Pembelajaran\Media Pembelajaran\obj\Debug\net8.0-windows\Media_Pembelajaran.home.resources
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\Media Pembelajaran\Media Pembelajaran\Media Pembelajaran\bin\Debug\net8.0-windows\id-ID\Media Pembelajaran.resources.dll
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\Media Pembelajaran\Media Pembelajaran\Media Pembelajaran\obj\Debug\net8.0-windows\Media_Pembelajaran.Home.id-ID.resources
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\Media Pembelajaran\Media Pembelajaran\Media Pembelajaran\obj\Debug\net8.0-windows\id-ID\Media Pembelajaran.resources.dll
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\Media Pembelajaran\Media Pembelajaran\Media Pembelajaran\obj\Debug\net8.0-windows\Media_Pembelajaran.Resources.resources
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\Media Pembelajaran\Media Pembelajaran\Media Pembelajaran\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\Media Pembelajaran\Media Pembelajaran\Media Pembelajaran\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\Media Pembelajaran\Media Pembelajaran\Media Pembelajaran\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\Media Pembelajaran\Media Pembelajaran\Media Pembelajaran\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\Media Pembelajaran\Media Pembelajaran\Media Pembelajaran\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\Media Pembelajaran\Media Pembelajaran\Media Pembelajaran\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\Media Pembelajaran\Media Pembelajaran\Media Pembelajaran\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\Media Pembelajaran\Media Pembelajaran\Media Pembelajaran\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\Media Pembelajaran\Media Pembelajaran\Media Pembelajaran\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\Media Pembelajaran\Media Pembelajaran\Media Pembelajaran\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\Media Pembelajaran\Media Pembelajaran\Media Pembelajaran\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\Media Pembelajaran\Media Pembelajaran\Media Pembelajaran\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\Media Pembelajaran\Media Pembelajaran\Media Pembelajaran\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\Media Pembelajaran\Media Pembelajaran\Media Pembelajaran\obj\Debug\net8.0-windows\Media Pembelajaran.vbproj.AssemblyReference.cache
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\Media Pembelajaran\Media Pembelajaran\Media Pembelajaran\obj\Debug\net8.0-windows\Media Pembelajaran.vbproj.CopyComplete
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\Media Pembelajaran\Media Pembelajaran\Media Pembelajaran\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\Media Pembelajaran\Media Pembelajaran\Media Pembelajaran\obj\Debug\net8.0-windows\Media_Pembelajaran.Dashboard.resources
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\Media Pembelajaran\Media Pembelajaran\Media Pembelajaran\obj\Debug\net8.0-windows\Media Pembelajaran.sourcelink.json
+C:\Perkuliahan\Semester 3\Pemproggraman Visual\Media Pembelajaran\Media Pembelajaran\Media Pembelajaran\bin\Debug\net8.0-windows\BCrypt.Net.dll
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\bin\Debug\net8.0-windows\Media Pembelajaran.exe
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\bin\Debug\net8.0-windows\Media Pembelajaran.deps.json
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\bin\Debug\net8.0-windows\Media Pembelajaran.runtimeconfig.json
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\bin\Debug\net8.0-windows\Media Pembelajaran.dll
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\bin\Debug\net8.0-windows\Media Pembelajaran.pdb
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\bin\Debug\net8.0-windows\id-ID\Media Pembelajaran.resources.dll
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\bin\Debug\net8.0-windows\BCrypt.Net.dll
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\obj\Debug\net8.0-windows\Media Pembelajaran.vbproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\obj\Debug\net8.0-windows\Media_Pembelajaran.Home.resources
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\obj\Debug\net8.0-windows\Media_Pembelajaran.Dashboard.resources
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\obj\Debug\net8.0-windows\Media_Pembelajaran.Resources.resources
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\obj\Debug\net8.0-windows\Media_Pembelajaran.Home.id-ID.resources
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\obj\Debug\net8.0-windows\Media Pembelajaran.vbproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\obj\Debug\net8.0-windows\Media Pembelajaran.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\obj\Debug\net8.0-windows\Media Pembelajaran.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\obj\Debug\net8.0-windows\Media Pembelajaran.AssemblyInfo.vb
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\obj\Debug\net8.0-windows\Media Pembelajaran.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\obj\Debug\net8.0-windows\id-ID\Media Pembelajaran.resources.dll
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\obj\Debug\net8.0-windows\Media Pe.5962A5D9.Up2Date
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\obj\Debug\net8.0-windows\Media Pembelajaran.dll
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\obj\Debug\net8.0-windows\refint\Media Pembelajaran.dll
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\obj\Debug\net8.0-windows\Media Pembelajaran.pdb
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\obj\Debug\net8.0-windows\Media Pembelajaran.genruntimeconfig.cache
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\obj\Debug\net8.0-windows\ref\Media Pembelajaran.dll
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.xml
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\Lenovo\Downloads\VB-Media-Pembelajaran-master\VB-Media-Pembelajaran-master\Media Pembelajaran\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.xml
